@@ -1,0 +1,15 @@
+{
+  "name": "pgpchat-server",
+  "version": "1.0.0",
+  "description": "GraphQL API and persistence for PGP Chat",
+  "main": "index.js",
+  "repository": "git@github.com:jcuffe/pgpchat-server.git",
+  "author": "Jared Cuffe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
